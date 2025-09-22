@@ -12,7 +12,7 @@ A comprehensive course covering system design fundamentals from computer archite
 ### Part 2: Networking
 4. **[Networking Basics](./03-networking-basics.md)** - Network fundamentals
 5. **[TCP and UDP](./04-tcp-and-udp.md)** - Transport layer protocols
-6. **[DNS](./05.-dns.md)** - Domain Name System
+6. **[DNS](./05-dns.md)** - Domain Name System
 7. **[HTTP](./06-http.md)** - Web communication protocol
 8. **[WebSockets](./07-websockets.md)** - Real-time communication
 
@@ -22,9 +22,20 @@ A comprehensive course covering system design fundamentals from computer archite
 11. **[Caching](./10-caching.md)** - Performance optimization strategies
 12. **[CDNs](./11-CDNs.md)** - Content Delivery Networks
 
+### Part 4: Load Balancing & Distribution
+13. **[Proxies and Load Balancing](./12-proxies-and-load-balancing.md)** - Traffic distribution
+14. **[Consistent Hashing](./13-consistent-hashing.md)** - Data distribution strategies
+
+### Part 5: Data Storage
+15. **[SQL](./14-sql.md)** - Relational databases
+16. **[NoSQL](./15-nosql.md)** - Non-relational databases
+17. **[Replication and Sharding](./16-replication-and-sharding.md)** - Database scaling
+18. **[CAP Theorem](./17-CAP-Theorem.md)** - Distributed system trade-offs
+19. **[Object Storage](./18-object-storage.md)** - File and blob storage
+
 ## 🎯 Learning Path
 
-**Recommended Order**: Follow chapters 00-11 sequentially for best understanding.
+**Recommended Order**: Follow chapters 00-18 sequentially for best understanding.
 
 **Prerequisites**: Basic programming knowledge helpful but not required.
 
@@ -35,7 +46,9 @@ A comprehensive course covering system design fundamentals from computer archite
 - Network protocols and communication
 - API design patterns
 - Performance optimization
-- Distributed system basics
+- Load balancing and distribution
+- Database design and scaling
+- Distributed system trade-offs
 
 ## 💡 How to Use
 
